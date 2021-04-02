@@ -1,0 +1,6 @@
+name = "etagtest"
+type = "javascript"
+account_id = "0de41866465843875a6d452ca5bd6e1f"
+workers_dev = true
+route = ""
+zone_id = ""
