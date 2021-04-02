@@ -1,6 +1,8 @@
 # My issue:
 If you run `wrangler dev` and check in the response, the `etag` will be null. However, if you try on the playground, it is not: https://cloudflareworkers.com/#7ca14685a23bf7bc32150dddfe34a912:https://www.example.com/
 
+![not null in playground](https://github.com/simplenotezy/etagtest/blob/master/playground-not-null.jpg)
+![null when deployed](https://github.com/simplenotezy/etagtest/blob/master/wrangler-dev-null.jpg)
 
 # 👷 `worker-template` Hello World
 
